@@ -1,0 +1,15 @@
+{
+    "IsRobber": true,
+    "DisplayName": "Cartel Member",
+    "ClothingRowName": "Customer_Hoodie_Black",
+    "AbilityName": "Backup",
+    "AbilityDescription": "You spawn a cartel member. You can pay an NPC $9,000 to recruit it into the cartel. If it dies, you can spawn it again after 30 seconds.",
+    "AbilityIcon": "cartelbackup.png",
+    "AbilityCooldown": 1.0,
+    "PassiveName": "Corrupt Cop",
+    "PassiveDescription": "You deal 25% more damage. Killing a cop grants you a cartel member.",
+    "PassiveIcon": "cartelcorrupt.png",
+    "PrimaryWeapon": 17,
+    "SecondaryWeapon": 4,
+    "ClassCategory": 2
+}

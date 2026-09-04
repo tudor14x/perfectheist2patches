@@ -1,0 +1,15 @@
+{
+    "IsRobber": true,
+    "DisplayName": "Arms Master",
+    "ClothingRowName": "Customer_Jacket_Red",
+    "AbilityName": "Assassination",
+    "AbilityDescription": "Can pay $4,500 to gain 1 extra kill on his killstreak",
+    "AbilityIcon": "armsmasterassassination.png",
+    "AbilityCooldown": 15.0,
+    "PassiveName": "Everlasting",
+    "PassiveDescription": "The higher the killstreak he has the stronger and faster he is",
+    "PassiveIcon": "armsmastereverlasting.png",
+    "PrimaryWeapon": 6,
+    "SecondaryWeapon": 12,
+    "ClassCategory": 0
+}

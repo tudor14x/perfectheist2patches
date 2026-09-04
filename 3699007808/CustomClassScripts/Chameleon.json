@@ -1,0 +1,15 @@
+{
+    "IsRobber": true,
+    "DisplayName": "Chameleon",
+    "ClothingRowName": "Customer_Jacket_Green",
+    "AbilityName": "Camouflage",
+    "AbilityDescription": "Can turn invisible until he picks up a large enough sum of money or moves. He can carry up to 5000$ while invisible.",
+    "AbilityIcon": "chameleoncamouflage.png",
+    "AbilityCooldown": 30.0,
+    "PassiveName": "Startled",
+    "PassiveDescription": "When damaged gains a speed boost for 2 seconds",
+    "PassiveIcon": "chameleonspeed.png",
+    "PrimaryWeapon": 8,
+    "SecondaryWeapon": 9,
+    "ClassCategory": 1
+}

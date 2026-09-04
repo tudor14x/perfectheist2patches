@@ -1,0 +1,15 @@
+{
+    "IsRobber": true,
+    "DisplayName": "Disguiser",
+    "ClothingRowName": "Employee_PurpleTie",
+    "AbilityName": "Swap Out",
+    "AbilityDescription": "Swap out with a nearby NPC",
+    "AbilityIcon": "disguiserswap.png",
+    "AbilityCooldown": 30.0,
+    "PassiveName": "Regen",
+    "PassiveDescription": "Regenerates 1 HP every second",
+    "PassiveIcon": "disguiserregen.png",
+    "PrimaryWeapon": 26,
+    "SecondaryWeapon": 8,
+    "ClassCategory": 1
+}

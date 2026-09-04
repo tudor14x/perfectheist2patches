@@ -1,0 +1,15 @@
+{
+    "IsRobber": true,
+    "DisplayName": "Superhero",
+    "ClothingRowName": "Customer_Jacket_Red",
+    "AbilityName": "Laser Eyes",
+    "AbilityDescription": "Can shoot lasers out of his eyes for 5 seconds, setting things on fire including plants, vaults, and enemies",
+    "AbilityIcon": "superherolaser.png",
+    "AbilityCooldown": 45.0,
+    "PassiveName": "Super Strength",
+    "PassiveDescription": "Has super strength, killing enemies in one tap but only has his fist for a weapon",
+    "PassiveIcon": "superherostrength.png",
+    "PrimaryWeapon": 0,
+    "SecondaryWeapon": 0,
+    "ClassCategory": 0
+}

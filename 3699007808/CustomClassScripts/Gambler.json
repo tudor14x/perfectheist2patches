@@ -1,0 +1,15 @@
+{
+    "IsRobber": true,
+    "DisplayName": "Gambler",
+    "ClothingRowName": "Employee_PurpleTie",
+    "AbilityName": "Slot Machine",
+    "AbilityDescription": "Can wager all the money on his back for a 50/50 chance to either lose half or double it",
+    "AbilityIcon": "gamblerslotmachine.png",
+    "AbilityCooldown": 25.0,
+    "PassiveName": "Lucky Dice",
+    "PassiveDescription": "Has a random multiplier to his damage and to the damage he recives",
+    "PassiveIcon": "gamblerdice.png",
+    "PrimaryWeapon": 6,
+    "SecondaryWeapon": 21,
+    "ClassCategory": 2
+}
